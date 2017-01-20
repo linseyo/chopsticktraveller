@@ -1,0 +1,13 @@
+body {
+	background: linear-gradient(white, gray);
+	max-width: 600px;
+
+
+}
+
+#bkg img{
+	width: 1000px;
+	margin-left: 100px;
+	margin-top: 40px;
+	border-radius: 10px;
+}
