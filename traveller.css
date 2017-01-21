@@ -1,0 +1,37 @@
+body {
+	background: #f4f6f6;
+	max-width: 1000px;
+	margin: 40px;
+	padding-left: 200px;
+}
+
+.traveling {
+	font-size: 14px;
+	font-family: 'Helvetica', sans-serif;
+}
+
+.traveling h1, h2 {
+	font-family: 'Great Vibes', cursive;
+}
+
+.traveling h1 {
+	font-size: 24px;
+}
+#wanderlust, #wanderlusted {
+	display: table-cell;
+	vertical-align: top;
+	max-width: 300px;
+	padding: 20px;
+}
+
+#links {
+	display: table-cell;
+	vertical-align: middle;
+}
+#openingstatement {
+	max-width: 400px;
+	text-align: center;
+	padding-left: 50px;
+	font-family: 'Helvetica', sans-serif;
+}
+
