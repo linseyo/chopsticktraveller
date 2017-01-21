@@ -1,0 +1,23 @@
+body {
+	background-image: url(images/sunset.jpg);
+	background-size: 100%;
+	max-width: 1000px;
+	margin: 40px;
+}
+
+h1 {
+	font-family: 'Great Vibes', cursive;
+}
+
+@media only screen and (max-width: 1000px) {
+  h1 {
+    color: white;
+  }
+}
+
+.main {
+	padding-left: 650px;
+	position: absolute;
+	top: 190px;
+	color: #e8e6ff;
+}

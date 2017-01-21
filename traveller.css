@@ -1,0 +1,63 @@
+body {
+	background: #f4f6f6;
+	background-image: url(images/sakura.jpg);
+	background-size: 100%;
+	max-width: 1000px;
+	margin: 40px;
+	padding-left: 200px;
+}
+
+.traveling {
+	font-size: 14px;
+	font-family: 'Helvetica', sans-serif;
+	background-color: #f4f6f6;
+	max-width: 600px;
+	border-radius: 5px;
+	opacity: 0.6;
+}
+
+.traveling h1, h2 {
+	font-family: 'Great Vibes', cursive;
+}
+
+.traveling h1 {
+	font-size: 24px;
+}
+#wanderlust, #wanderlusted {
+	display: table-cell;
+	vertical-align: top;
+	max-width: 300px;
+	padding: 20px;
+}
+
+
+#openingstatement {
+	max-width: 500px;
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	font-family: 'Helvetica', sans-serif;
+	background-color: #f4f6f6;
+	border-radius: 5px;
+	opacity: 0.6;
+
+}
+/*LINKS SECTION*/
+
+#links {
+	position: absolute;
+	left: 100px;
+	top: 280px;
+	text-align: left;
+}
+a:link {
+    color: #6f7d7f;
+}
+
+a:visited {
+    color: #7ae5dd;
+}
+
+a:hover {
+    color: #d4b9c4;
+}

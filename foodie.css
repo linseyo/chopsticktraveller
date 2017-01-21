@@ -1,0 +1,82 @@
+/*FOOD PAGE*/
+body {
+	background: #f4f6f6;
+	max-width: 1000px;
+	margin: 40px;
+
+}
+
+h1 {
+	font-family: 'Great Vibes', cursive;
+	font-size: 96px;
+	width: 1000px;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Great Vibes', cursive;
+	font-size: 36px;
+}
+
+#Foodie {
+	display: table-cell;
+	vertical-align: top;
+	width: 350px;
+	padding-left: 50px;
+	text-align: center;
+	
+}
+
+#socialmedia {
+	display: table-cell;
+	vertical-align: top;
+	padding-left: 70px;
+	text-align: center;
+	width: 250px;
+
+}
+
+.SM {
+	list-style-type: none;
+	text-align: center;
+	
+}
+
+#FHEAD {
+	font-family: 'Great Vibes', cursive;
+	font-size: 60px;
+	text-align: center;
+	padding: -10px;
+
+
+}
+
+#outsidesource {
+
+	border-radius: 20px;
+	background-color: #c7f1f4;
+	padding: 25px;
+	margin: 40px;
+	font-family: 'Helvetica', sans-serif;
+	font-size: 12px;
+	
+}
+
+#links {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	padding-left: 120px
+
+}
+a:link {
+    color: #6f7d7f;
+}
+
+a:visited {
+    color: #7ae5dd;
+}
+
+a:hover {
+    color: #d4b9c4;
+}

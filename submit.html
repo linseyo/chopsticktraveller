@@ -1,10 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<meta charset="UTF-8">
 	<title>YAY!</title>
+	<link rel="stylesheet" href="adventure.css" type="text/css">
+	<link href='https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 </head>
 <body>
-<h1>WHERE SHOULD WE GO?</h1>
-<img src="images/airplane.jpg" alt="airplane" style="width:557px;height:409px;" />
+<section class="main">
+<h1>Where Should We Go?</h1>
+<div id="forms">
+	<form action="submit.html">
+	<label>Ready to Travel with Me?</label>
+      <input type="checkbox" name="cb-agree" value="agree">
+      YES!
+		<h6>Where do you want to go and what do you want to see?</h6>
+		<textarea></textarea>
+	</form>
+</div>
+<div id="links">
+	<div class="click">
+		<form action="food.html">
+		<button type="submit">Food</button></form>
+	</div><br>
+	<div class="click">
+		<form action="travel.html">
+		<button type="submit">Travel</button></form>
+	</div><br>
+	<div class="click">
+		<form action="submit.html">
+		<button type="submit">Adventure</button></form>
+	</div><br>
+	<div class="click">
+		<form action="index.html">
+		<button type="submit">Home</button></form>
+	</div>
+</div>
+</section>
 </body>
 </html>

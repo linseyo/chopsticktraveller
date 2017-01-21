@@ -1,0 +1,57 @@
+body {
+	background: #f4f6f6;
+	max-width: 600px;
+}
+
+#bkg img{
+	width: 1000px;
+	margin-left: 100px;
+	margin-top: 40px;
+	border-radius: 10px;
+	border-style: dotted;
+}
+
+#main1, #main2 {
+	
+	font-family: 'Great Vibes', cursive;
+	font-kerning: normal;
+	font-size: 9em;
+}
+
+#main1 {
+	position: absolute;
+	top: 320px;
+	margin-left: 130px;
+}
+
+#main2 {
+	position: absolute;
+	top: 429px;
+	margin-left: 300px;
+}
+
+#FB {
+	position: absolute;
+	top: 529px;
+	margin-left: 900px;
+	
+}
+
+#SB {
+	position: absolute;
+	top: 559px;
+	margin-left: 900px;
+	
+}
+
+#TB {
+	position: absolute;
+	top: 589px;
+	margin-left: 900px;
+	
+}
+
+
+
+
+
