@@ -69,9 +69,14 @@ h2 {
 	padding-left: 120px
 
 }
-
-.middlebody {
-	background-image: ;
+a:link {
+    color: #6f7d7f;
 }
 
-/* {outline: 1px solid red;}
+a:visited {
+    color: #7ae5dd;
+}
+
+a:hover {
+    color: #d4b9c4;
+}
